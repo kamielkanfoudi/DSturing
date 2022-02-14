@@ -42,5 +42,5 @@ rates_data = pd.read_csv("rates_data_total1.csv")
 
 show_df = st.sidebar.checkbox("Show Grouped Rates Data")
 
-if show_df
+if show_df:
   st.dataframe(rates_data)
