@@ -83,3 +83,5 @@ st.write("Lichess utilizes stockfish, a chess rating engine, to provide evaluati
 st.image("check.png")
          
 st.image("russia.png")
+
+st.write("The two variations have relatively tepid openings. Yet, we can see that the Checkov variation sets up for a slightly more hostile middle game than the Moscow variation. The Mosccow variation’s middle game tails closely behind its opening, encouraging a balanced game. The fact the evals deviate very little from move to move at this point explains the low blunder average, as the environment remains conservative. However, from the 100th move on we observe a strong black lead, followed by a strong white lead. The two seem fairly symmetrical about the x axis. Interestingly, however, the Checkov variation’s middle only slightly differs from that of Moscow. But from the 100th move onwards, the game skews extremely heavily in favor of black for a much larger period of the game, explaining why we see such a high relative average blunder rate for white!")
