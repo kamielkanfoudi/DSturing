@@ -37,3 +37,10 @@ st.write("We can also get insights into what variations are played when we separ
 st.header("Variations Analysis")
 
 st.write("We were also able to derive some basic data that will allow us to look into how the variations actually differ within a game.")
+
+rates_data = pd.read_csv("rates_data_total1.csv")
+
+show_df = st.sidebar.checkbox("Show Grouped Rates Data")
+
+if show_df
+  st.dataframe(rates_data)
