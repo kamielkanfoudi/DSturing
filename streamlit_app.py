@@ -20,4 +20,9 @@ st.markdown("**__A chart to show the amount of time a given opening was played, 
 
 st.line_chart(df)
 
-st.caption('In the abouve ch')
+st.Header('Insight into varations of the Sicilian Defense')
+
+st.write("As displayed by the above line chart, we plotted the top 5 most common moves against time. We saw that the Sicilian defense was played significantly more times than any other opening move and wanted to investigate and understand more about this play.")
+
+
+st.write("With an infinite possibility of moves within a game, it is intuitive that with each movement we diverge into further tertiary and quaternary plays. The basis of the Sicilian defense consists of two moves (e4 d5), shown in the image above. Yet, as the game continues, we break away into a multitude of variations of this play.")
