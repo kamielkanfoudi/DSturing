@@ -36,7 +36,7 @@ st.write("We can also get insights into what variations are played when we separ
 
 st.header("Variations Analysis")
 
-st.write("We were also able to derive some basic data that will allow us to look into how the variations actually differ within a game.")
+st.write("We were also able to derive some basic data that will allow us to look into how the variations actually differ within a game. Select the sidebar checkboxes to view!")
 
 rates_data = pd.read_csv("rates_data_total1.csv")
 
@@ -58,3 +58,7 @@ if show_un:
 
 if show_ti:
   st.dataframe(titled_rates)
+  
+st.write("In the below barchart, we displayed some of this data from the 7 most common Sicilian Defense openings. Thus, showing how certain variations (such as Sicilian Defense: Nyezhmetdinov-Rossolimo Attack) statistically present an advantage in terms of win rates for white. From the data, we also calculated the average amount of blunders for the white player as observed across all the relevant games with a given opening. A blunder is the most dire classification of error in chess, therefore a higher average blunder count implies an opening that sets up for a more complex game for that player.")
+
+st.image("whiteblunders.png")
