@@ -35,11 +35,11 @@ option = st.selectbox(
      'Select Which Grouping To View',
      ('Total', 'Untitled', 'Titled'))
 
-if option = 'Total'
+if option == 'Total':
       st.image("pietotal.png"
-elif option = 'Untitled'
+elif option == 'Untitled':
   st.image ("pieuntitled.png")
-elif option = 'Titled'
+elif option =='Titled':
   st.image("pietitled.png")
 
 st.write('You selected:', option)
