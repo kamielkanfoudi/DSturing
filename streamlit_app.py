@@ -26,10 +26,10 @@ st.write("As displayed by the above line chart, we plotted the top 5 most common
 
 st.image('SDIM.png')
 
-st.write("With an infinite possibility of moves within a game, it is intuitive that with each movement we diverge into further tertiary and quaternary plays. The basis of the Sicilian defense consists of two moves (e4 d5), shown in the image above. Yet, as the game continues, we break away into a multitude of variations of this play.")
+st.write("With an infinite possibility of moves within a game, it is intuitive that with each movement we diverge into further tertiary and quaternary plays. The basis of the Sicilian defense consists of two moves (e4 d5), shown in the image above. Yet, as the game continues, we break away into a multitude of variations of the standard Sicilian Defense.")
 
 
-st.write("We can also get insights into what variations are played when we separate the data by untitled and titled tournament.")
+st.write("We can get insights into what variations are played when we separate the data by untitled and titled tournament.")
 
 option = st.selectbox(
      'Select Which Grouping To View',
@@ -78,3 +78,8 @@ st.write("Interestingly, the Moscow Variation has a slightly lower win rate than
 
 st.header("Evaluation Plotting")
 
+st.write("Lichess utilizes stockfish, a chess rating engine, to provide evaluations as a rating system after a move is played. Stockfish uses factors such as piece placement, material and price classifications in order to calculate an in-game performance rating which gives an indication of the player's relative advantage. A negative eval score indicates a preferable standing for black, and a positive score a preferable standing for white. Higher absolute ratings propose a heavier advantage for the relevant player. Through the lichess API, we were able to collect dictionaries of the eval scores for each move, within each game. For these two variations, we were able to calculate and plot the average eval volatility to get a static look at thier subsequent game dynamics."
+
+st.image("check.png")
+         
+st.image("russia.png")
