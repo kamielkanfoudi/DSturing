@@ -37,9 +37,9 @@ option = st.selectbox(
 
 if option == 'Total':
       st.image("pietotal.png"
-elif option == 'Untitled':
+if option == 'Untitled':
   st.image ("pieuntitled.png")
-elif option =='Titled':
+if option =='Titled':
   st.image("pietitled.png")
 
 st.write('You selected:', option)
