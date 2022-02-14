@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd 
+import altair as alt
 
 
 
@@ -15,6 +16,6 @@ st.write("Firstly, a quick overview of two chess tournaments held on one of the 
 
 df = pd.read_csv('trackingmoves1.csv')
 
-st.line_chart(df)
+alt.chart(df)
 
 st.caption('In the abou')
