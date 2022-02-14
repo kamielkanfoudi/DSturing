@@ -10,6 +10,6 @@ st.text(" “Those who say they understand chess, understand nothing.” – Rob
 
 st.text("One thing we can learn to understand, though, is data. And, with data, I want to explore one of chess’s most famed names: The Sicilian defense.") 
 
-trackingdata = pd.read_csv('trackingmoves.csv')
+trackingdata = pd.read_csv('trackingmoves1.csv')
 
 st.line_chart(trackingdata)
