@@ -33,7 +33,7 @@ st.write("We can also get insights into what variations are played when we separ
 
 option = st.selectbox(
      'Select Which Grouping To View',
-     ('Total', 'Untitled', 'Titled))
+     ('Total', 'Untitled', 'Titled'))
 
 if option = 'Total'
       st.image("pietotal.png"
