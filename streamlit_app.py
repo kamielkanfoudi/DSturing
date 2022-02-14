@@ -16,7 +16,7 @@ st.write("Firstly, we will look at a quick overview of two chess tournaments hel
 
 df = pd.read_csv('trackingmoves1.csv')
 
-st.header("A chart to show the amount of time a given opening was played, cumulatively, with each second of the tournament.")
+st.markdown("**A chart to show the amount of time a given opening was played, cumulatively, with each second of the tournament.**")
 
 st.line_chart(df)
 
