@@ -40,7 +40,21 @@ st.write("We were also able to derive some basic data that will allow us to look
 
 rates_data = pd.read_csv("rates_data_total1.csv")
 
+un_rates = pd.read_csv("rates_data_untitled1.csv")
+
+titled_rates = pd.read_csv("rates_data_titled3.csv")
+
 show_df = st.sidebar.checkbox("Show Grouped Rates Data")
+
+show_un = st.sidebar.checkbox("Show Untitled Rates Data")
+
+show_ti = st.sidebar.checkbox("Show Titled Rates Data")
 
 if show_df:
   st.dataframe(rates_data)
+  
+if show_un:
+  st.dataframe(un_rates)
+
+if show_ti:
+  st.dataframe(titled_rates)
