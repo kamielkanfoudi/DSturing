@@ -10,10 +10,10 @@ st.text(" “Those who say they understand chess, understand nothing.” – Rob
 
 st.write("One thing we can learn to understand, though, is data. And, with data, I want to explore one of chess’s most famed names: The Sicilian defense! ") 
 
-st.write("Firstly, a quick overview of two chess tournaments held on one of the most prominent chess platforms, lichess. We scraped data of two tournaments held in January 2022: one consisting of only titled players and one open to all chess players. With almost 2000 games to analyze, our first step was to start at the beginning. How do the players tend to start? Put simply, the foundational mechanism of any chess game is known as the opening. Opening theory intends to document most, if not all, possible sets of opening plays in the ECO (encyclopedia of chess Openings)" 
+st.write("Firstly, a quick overview of two chess tournaments held on one of the most prominent chess platforms, lichess. We scraped data of two tournaments held in January 2022: one consisting of only titled players and one open to all chess players. With almost 2000 games to analyze, our first step was to start at the beginning. How do the players tend to start? Put simply, the foundational mechanism of any chess game is known as the opening. Opening theory intends to document most, if not all, possible sets of opening plays in the ECO (encyclopedia of chess Openings")
 
 
-  df = pd.read_csv('trackingmoves1.csv')
+ df = pd.read_csv('trackingmoves1.csv')
 
 st.line_chart(df)
 
