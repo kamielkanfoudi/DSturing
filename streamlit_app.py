@@ -11,7 +11,7 @@ st.text(" “Those who say they understand chess, understand nothing.” – Rob
 
 st.write("One thing we can learn to understand, though, is data. And, with data, I want to explore one of chess’s most famed names: The Sicilian defense! ") 
 
-st.write("Firstly, we will look at a quick overview of two chess tournaments held on one of the most prominent chess platforms, lichess. We scraped data of two tournaments held in January 2022: one consisting of only titled players and one open to all players. With almost 2000 games to analyze, the first step is to start at the beginning. How do the players tend to start? Put simply, the foundational mechanism of any chess game is known as the opening. Opening theory intends to document most, if not all, possible sets of opening plays in the ECO (Encyclopedia of Chess Openings)")
+st.write("Our data is derived from two chess tournaments held on one of the most prominent chess platforms, lichess. Utilizing thier API, we scraped data of two tournaments held in January 2022: one consisting of only titled players and one open to all players. With almost 2000 games to analyze, the first step is to start at the beginning. How do the players tend to start? Put simply, the foundational mechanism of any chess game is known as the opening. Opening theory intends to document most, if not all, possible sets of opening plays in the ECO (Encyclopedia of Chess Openings)")
 
 
 df = pd.read_csv('trackingmoves1.csv')
@@ -73,3 +73,8 @@ if show_ti:
 st.write("In the below barchart, we displayed some of this data from the 7 most common Sicilian Defense openings. Thus, showing how certain variations (such as Sicilian Defense: Nyezhmetdinov-Rossolimo Attack) statistically present an advantage in terms of win rates for white. From the data, we also calculated the average amount of blunders for the white player as observed across all the relevant games with a given opening. A blunder is the most dire classification of error in chess, therefore a higher average blunder count implies an opening that sets up for a more complex game for that player.")
 
 st.image("whiteblunders.png")
+
+st.write("Interestingly, the Moscow Variation has a slightly lower win rate than the Chekhover Variation. However, as the contrasting tones suggest,  the Moscow Variation has an average blunder for white of 0 and the Chekhover Variation has that of 3. Noting this, it would be interesting to use the data to paint a picture of the inside of the game.")
+
+st.header("Evaluation Plotting")
+
