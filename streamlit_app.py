@@ -20,7 +20,7 @@ st.markdown("**__A chart to show the amount of time a given opening was played, 
 
 st.line_chart(df)
 
-st.Header('Insight into varations of the Sicilian Defense')
+st.header('Insight into varations of the Sicilian Defense')
 
 st.write("As displayed by the above line chart, we plotted the top 5 most common moves against time. We saw that the Sicilian defense was played significantly more times than any other opening move and wanted to investigate and understand more about this play.")
 
