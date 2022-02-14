@@ -78,7 +78,7 @@ st.write("Interestingly, the Moscow Variation has a slightly lower win rate than
 
 st.header("Evaluation Plotting")
 
-st.write("Lichess utilizes stockfish, a chess rating engine, to provide evaluations as a rating system after a move is played. Stockfish uses factors such as piece placement, material and price classifications in order to calculate an in-game performance rating which gives an indication of the player's relative advantage. A negative eval score indicates a preferable standing for black, and a positive score a preferable standing for white. Higher absolute ratings propose a heavier advantage for the relevant player. Through the lichess API, we were able to collect dictionaries of the eval scores for each move, within each game. For these two variations, we were able to calculate and plot the average eval volatility to get a static look at thier subsequent game dynamics."
+st.write("Lichess utilizes stockfish, a chess rating engine, to provide evaluations as a rating system after a move is played. Stockfish uses factors such as piece placement, material and price classifications in order to calculate an in-game performance rating which gives an indication of the player's relative advantage. A negative eval score indicates a preferable standing for black, and a positive score a preferable standing for white. Higher absolute ratings propose a heavier advantage for the relevant player. Through the lichess API, we were able to collect dictionaries of the eval scores for each move, within each game. For these two variations, we were able to calculate and plot the average eval volatility to get a static look at thier subsequent game dynamics.")
 
 st.image("check.png")
          
