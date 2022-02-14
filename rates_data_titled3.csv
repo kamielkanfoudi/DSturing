@@ -1,0 +1,159 @@
+opening,win_count,draw_count,total_games,white_wins,black_wins,win_rate,draw_rate,white_win_rate,black_win_rate
+Sicilian Defense: Closed,80,2,82,47,33,0.975609756097561,0.024390243902439025,0.5875,0.4125
+Sicilian Defense: Nyezhmetdinov-Rossolimo Attack,41,6,47,28,13,0.8723404255319149,0.1276595744680851,0.6829268292682927,0.3170731707317073
+Sicilian Defense: Moscow Variation,36,8,44,15,21,0.8181818181818182,0.18181818181818182,0.4166666666666667,0.5833333333333334
+"Sicilian Defense: Closed, Traditional",39,5,44,21,18,0.8863636363636364,0.11363636363636363,0.5384615384615384,0.46153846153846156
+Sicilian Defense,39,3,42,23,16,0.9285714285714286,0.07142857142857142,0.5897435897435898,0.41025641025641024
+Sicilian Defense: Chekhover Variation,33,0,33,16,17,1.0,0.0,0.48484848484848486,0.5151515151515151
+"Sicilian Defense: Canal Attack, Main Line",24,3,27,15,9,0.8888888888888888,0.1111111111111111,0.625,0.375
+Sicilian Defense: Old Sicilian,25,2,27,14,11,0.9259259259259259,0.07407407407407407,0.56,0.44
+Sicilian Defense: Alapin Variation,26,1,27,16,10,0.9629629629629629,0.037037037037037035,0.6153846153846154,0.38461538461538464
+Sicilian Defense: Najdorf Variation,25,1,26,11,14,0.9615384615384616,0.038461538461538464,0.44,0.56
+"Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation",25,0,25,12,13,1.0,0.0,0.48,0.52
+Sicilian Defense: Delayed Alapin Variation,22,1,23,11,11,0.9565217391304348,0.043478260869565216,0.5,0.5
+Sicilian Defense: Modern Variations,18,3,21,10,8,0.8571428571428571,0.14285714285714285,0.5555555555555556,0.4444444444444444
+"Sicilian Defense: Alapin Variation, Barmen Defense",18,1,19,10,8,0.9473684210526315,0.05263157894736842,0.5555555555555556,0.4444444444444444
+Sicilian Defense: Kalashnikov Variation,16,2,18,6,10,0.8888888888888888,0.1111111111111111,0.375,0.625
+"Sicilian Defense: Taimanov Variation, Bastrikov Variation",13,4,17,10,3,0.7647058823529411,0.23529411764705882,0.7692307692307693,0.23076923076923078
+"Sicilian Defense: Najdorf Variation, English Attack",17,0,17,8,9,1.0,0.0,0.47058823529411764,0.5294117647058824
+Sicilian Defense: Taimanov Variation,13,3,16,6,7,0.8125,0.1875,0.46153846153846156,0.5384615384615384
+"Sicilian Defense: Accelerated Dragon, Maróczy Bind",14,2,16,4,10,0.875,0.125,0.2857142857142857,0.7142857142857143
+"Sicilian Defense: Accelerated Dragon, Modern Bc4 Variation",15,1,16,8,7,0.9375,0.0625,0.5333333333333333,0.4666666666666667
+Sicilian Defense: French Variation,15,1,16,6,9,0.9375,0.0625,0.4,0.6
+"Sicilian Defense: Alapin Variation, Smith-Morra Declined",13,2,15,8,5,0.8666666666666667,0.13333333333333333,0.6153846153846154,0.38461538461538464
+Sicilian Defense: Mengarini Variation,15,0,15,6,9,1.0,0.0,0.4,0.6
+Sicilian Defense: Löwenthal Variation,15,0,15,8,7,1.0,0.0,0.5333333333333333,0.4666666666666667
+Sicilian Defense: Delayed Alapin,14,1,15,8,6,0.9333333333333333,0.06666666666666667,0.5714285714285714,0.42857142857142855
+Sicilian Defense: Prins Variation,11,3,14,6,5,0.7857142857142857,0.21428571428571427,0.5454545454545454,0.45454545454545453
+Sicilian Defense: Four Knights Variation,13,0,13,5,8,1.0,0.0,0.38461538461538464,0.6153846153846154
+Sicilian Defense: Hyperaccelerated Fianchetto,13,0,13,5,8,1.0,0.0,0.38461538461538464,0.6153846153846154
+"Sicilian Defense: Kan Variation, Knight Variation",10,2,12,7,3,0.8333333333333334,0.16666666666666666,0.7,0.3
+Sicilian Defense: Hyperaccelerated Pterodactyl,11,1,12,7,4,0.9166666666666666,0.08333333333333333,0.6363636363636364,0.36363636363636365
+Sicilian Defense: Snyder Variation,12,0,12,5,7,1.0,0.0,0.4166666666666667,0.5833333333333334
+Sicilian Defense: Hyperaccelerated Dragon,10,1,11,5,5,0.9090909090909091,0.09090909090909091,0.5,0.5
+Sicilian Defense: Staunton-Cochrane Variation,10,1,11,3,7,0.9090909090909091,0.09090909090909091,0.3,0.7
+Sicilian Defense: Classical Variation,10,1,11,2,8,0.9090909090909091,0.09090909090909091,0.2,0.8
+Sicilian Defense: Grand Prix Attack,11,0,11,7,4,1.0,0.0,0.6363636363636364,0.36363636363636365
+"Sicilian Defense: Accelerated Dragon, Modern Variation",11,0,11,7,4,1.0,0.0,0.6363636363636364,0.36363636363636365
+"Sicilian Defense: Kan Variation, Modern Variation",8,2,10,4,4,0.8,0.2,0.5,0.5
+"Sicilian Defense: Kan Variation, Maróczy Bind, Réti Variation",9,1,10,5,4,0.9,0.1,0.5555555555555556,0.4444444444444444
+"Sicilian Defense: Closed, Chameleon Variation",7,3,10,5,2,0.7,0.3,0.7142857142857143,0.2857142857142857
+Sicilian Defense: Keres Variation,8,1,9,8,0,0.8888888888888888,0.1111111111111111,1.0,0.0
+"Sicilian Defense: Najdorf Variation, Adams Attack",9,0,9,4,5,1.0,0.0,0.4444444444444444,0.5555555555555556
+"Sicilian Defense: Wing Gambit, Marshall Variation",7,1,8,3,4,0.875,0.125,0.42857142857142855,0.5714285714285714
+Sicilian Defense: Smith-Morra Gambit,8,0,8,5,3,1.0,0.0,0.625,0.375
+"Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Chelyabinsk Variation",7,0,7,4,3,1.0,0.0,0.5714285714285714,0.42857142857142855
+"Sicilian Defense: Najdorf Variation, Opocensky Variation",6,0,6,4,2,1.0,0.0,0.6666666666666666,0.3333333333333333
+"Sicilian Defense: Dragon Variation, Yugoslav Attack, Modern Line",6,0,6,5,1,1.0,0.0,0.8333333333333334,0.16666666666666666
+"Sicilian Defense: Dragon Variation, Yugoslav Attack",5,1,6,3,2,0.8333333333333334,0.16666666666666666,0.6,0.4
+"Sicilian Defense: Dragon Variation, Levenfish Variation",5,1,6,3,2,0.8333333333333334,0.16666666666666666,0.6,0.4
+"Sicilian Defense: Najdorf Variation, Amsterdam Variation",5,1,6,0,5,0.8333333333333334,0.16666666666666666,0.0,1.0
+Sicilian Defense: Godiva Variation,5,1,6,1,4,0.8333333333333334,0.16666666666666666,0.2,0.8
+"Sicilian Defense: French Variation, Open",6,0,6,3,3,1.0,0.0,0.5,0.5
+"Sicilian Defense: Four Knights Variation, Cobra Variation",6,0,6,3,3,1.0,0.0,0.5,0.5
+Sicilian Defense: Lasker-Pelikan Variation,5,0,5,3,2,1.0,0.0,0.6,0.4
+"Sicilian Defense: Najdorf Variation, Lipnitsky Attack",5,0,5,2,3,1.0,0.0,0.4,0.6
+Sicilian Defense: Open,4,1,5,0,4,0.8,0.2,0.0,1.0
+Sicilian Defense: Wing Gambit,5,0,5,2,3,1.0,0.0,0.4,0.6
+"Sicilian Defense: Najdorf Variation, Opocensky Variation, Traditional Line",4,1,5,3,1,0.8,0.2,0.75,0.25
+"Sicilian Defense: Modern Variations, Tartakower",5,0,5,1,4,1.0,0.0,0.2,0.8
+"Sicilian Defense: Dragon Variation, Modern Bc4 Variation",5,0,5,4,1,1.0,0.0,0.8,0.2
+"Sicilian Defense: Nimzowitsch Variation, Closed Variation",5,0,5,2,3,1.0,0.0,0.4,0.6
+Sicilian Defense: McDonnell Attack,4,1,5,2,2,0.8,0.2,0.5,0.5
+Sicilian Defense: Kramnik Variation,2,2,4,1,1,0.5,0.5,0.5,0.5
+Sicilian Defense: Richter-Rauzer Variation,3,1,4,1,2,0.75,0.25,0.3333333333333333,0.6666666666666666
+"Sicilian Defense: Najdorf Variation, Main Line",4,0,4,1,3,1.0,0.0,0.25,0.75
+"Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation",4,0,4,1,3,1.0,0.0,0.25,0.75
+"Sicilian Defense: Nimzowitsch Variation, Main Line",4,0,4,2,2,1.0,0.0,0.5,0.5
+"Sicilian Defense: Scheveningen Variation, English Attack",4,0,4,1,3,1.0,0.0,0.25,0.75
+"Sicilian Defense: Nimzowitsch Variation, Advance Variation",3,1,4,1,2,0.75,0.25,0.3333333333333333,0.6666666666666666
+"Sicilian Defense: Richter-Rauzer Variation, Modern Variation",4,0,4,2,2,1.0,0.0,0.5,0.5
+"Sicilian Defense: Moscow Variation, Sokolsky Variation",3,1,4,1,2,0.75,0.25,0.3333333333333333,0.6666666666666666
+Sicilian Defense: Dragon Variation,3,0,3,0,3,1.0,0.0,0.0,1.0
+"Sicilian Defense: O'Kelly Variation, Normal System",3,0,3,2,1,1.0,0.0,0.6666666666666666,0.3333333333333333
+"Sicilian Defense: Smith-Morra Gambit Accepted, Scheveningen Formation",3,0,3,1,2,1.0,0.0,0.3333333333333333,0.6666666666666666
+"Sicilian Defense: Dragon Variation, Yugoslav Attack, Panov Variation",2,1,3,1,1,0.6666666666666666,0.3333333333333333,0.5,0.5
+Sicilian Defense: Bowdler Attack,3,0,3,2,1,1.0,0.0,0.6666666666666666,0.3333333333333333
+"Sicilian Defense: O'Kelly Variation, Venice System",2,1,3,0,2,0.6666666666666666,0.3333333333333333,0.0,1.0
+"Sicilian Defense: Four Knights Variation, Exchange Variation",3,0,3,2,1,1.0,0.0,0.6666666666666666,0.3333333333333333
+"Sicilian Defense: Accelerated Dragon, Maróczy Bind, Gurgenidze Variation",3,0,3,2,1,1.0,0.0,0.6666666666666666,0.3333333333333333
+"Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation",2,1,3,1,1,0.6666666666666666,0.3333333333333333,0.5,0.5
+"Sicilian Defense: French Variation, Normal",3,0,3,1,2,1.0,0.0,0.3333333333333333,0.6666666666666666
+Sicilian Defense: Smith-Morra Gambit Deferred,3,0,3,3,0,1.0,0.0,1.0,0.0
+"Sicilian Defense: Richter-Rauzer Variation, Vitolins Variation",3,0,3,2,1,1.0,0.0,0.6666666666666666,0.3333333333333333
+"Sicilian Defense: Smith-Morra Gambit Declined, Push Variation",3,0,3,3,0,1.0,0.0,1.0,0.0
+"Sicilian Defense: Najdorf Variation, Zagreb Variation",3,0,3,2,1,1.0,0.0,0.6666666666666666,0.3333333333333333
+Sicilian Defense: Kveinis Variation,3,0,3,3,0,1.0,0.0,1.0,0.0
+"Sicilian Defense: Sozin Attack, Flank Variation",2,0,2,2,0,1.0,0.0,1.0,0.0
+"Sicilian Defense: Classical Variation, Anti-Sozin Variation",1,1,2,0,1,0.5,0.5,0.0,1.0
+Sicilian Defense: Accelerated Dragon,2,0,2,1,1,1.0,0.0,0.5,0.5
+"Sicilian Defense: Dragon Variation, Fianchetto Variation",1,1,2,0,1,0.5,0.5,0.0,1.0
+"Sicilian Defense: Dragon Variation, Classical Variation",2,0,2,0,2,1.0,0.0,0.0,1.0
+"Sicilian Defense: O'Kelly Variation, Normal System, Smith-Morra Line",1,1,2,1,0,0.5,0.5,1.0,0.0
+"Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack",2,0,2,0,2,1.0,0.0,0.0,1.0
+Sicilian Defense: Scheveningen Variation,2,0,2,1,1,1.0,0.0,0.5,0.5
+Sicilian Defense: Boleslavsky Variation,2,0,2,0,2,1.0,0.0,0.0,1.0
+"Sicilian Defense: Smith-Morra Gambit Declined, Dubois Variation",2,0,2,1,1,1.0,0.0,0.5,0.5
+"Sicilian Defense: Prins Variation, Venice Attack",2,0,2,1,1,1.0,0.0,0.5,0.5
+"Sicilian Defense: French Variation, Westerinen Attack",2,0,2,1,1,1.0,0.0,0.5,0.5
+"Sicilian Defense: Najdorf Variation, Poisoned Pawn Variation",2,0,2,0,2,1.0,0.0,0.0,1.0
+"Sicilian Defense: Scheveningen Variation, Delayed Keres Attack",2,0,2,1,1,1.0,0.0,0.5,0.5
+"Sicilian Defense: Modern Variations, Main Line",2,0,2,0,2,1.0,0.0,0.0,1.0
+"Sicilian Defense: Dragon Variation, Yugoslav Attack, Belezky Line",2,0,2,1,1,1.0,0.0,0.5,0.5
+"Sicilian Defense: Dragon Variation, Yugoslav Attack, Early Deviations",2,0,2,0,2,1.0,0.0,0.0,1.0
+Sicilian Defense: Nimzowitsch Variation,2,0,2,1,1,1.0,0.0,0.5,0.5
+"Sicilian Defense: Taimanov Variation, Szén Variation",2,0,2,0,2,1.0,0.0,0.0,1.0
+"Sicilian Defense: Dragon Variation, Classical Variation, Battery Variation",1,1,2,1,0,0.5,0.5,1.0,0.0
+"Sicilian Defense: Smith-Morra Gambit Accepted, Classical Formation",1,1,2,0,1,0.5,0.5,0.0,1.0
+Queen's Pawn Game: Franco-Sicilian Defense,2,0,2,0,2,1.0,0.0,0.0,1.0
+"Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Novosibirsk Variation",2,0,2,1,1,1.0,0.0,0.5,0.5
+"Sicilian Defense: Alapin Variation, Barmen Defense, Central Exchange",2,0,2,2,0,1.0,0.0,1.0,0.0
+"Sicilian Defense: Wing Gambit, Deferred Variation",2,0,2,1,1,1.0,0.0,0.5,0.5
+"Sicilian Defense: O'Kelly Variation, Yerevan System",1,1,2,1,0,0.5,0.5,1.0,0.0
+"Sicilian Defense: Smith-Morra Gambit Accepted, Paulsen Formation",1,0,1,1,0,1.0,0.0,1.0,0.0
+"Sicilian Defense: Richter-Rauzer Variation, Classical Variation",1,0,1,0,1,1.0,0.0,0.0,1.0
+"Sicilian Defense: Dragon Variation, Yugoslav Attack, Main Line",1,0,1,0,1,1.0,0.0,0.0,1.0
+"Sicilian Defense: Dragon Variation, Yugoslav Attack, Sosonko Variation",1,0,1,1,0,1.0,0.0,1.0,0.0
+"Sicilian Defense: Smith-Morra Gambit Accepted, Pin Defense",1,0,1,0,1,1.0,0.0,0.0,1.0
+Sicilian Defense: Marshall Gambit,1,0,1,1,0,1.0,0.0,1.0,0.0
+"Sicilian Defense: Lasker-Pelikan Variation, Schlechter Variation",1,0,1,1,0,1.0,0.0,1.0,0.0
+"Sicilian Defense: Scheveningen Variation, Fianchetto Variation",0,1,1,0,0,0.0,1.0,,
+Sicilian Defense: Kan Variation,0,1,1,0,0,0.0,1.0,,
+Sicilian Defense: Katalimov Variation,1,0,1,0,1,1.0,0.0,0.0,1.0
+Sicilian Defense: Venice Attack,1,0,1,0,1,1.0,0.0,0.0,1.0
+"Sicilian Defense: Grand Prix Attack, Schofman Variation",1,0,1,1,0,1.0,0.0,1.0,0.0
+"Sicilian Defense: Kan Variation, Wing Attack",1,0,1,0,1,1.0,0.0,0.0,1.0
+"Sicilian Defense: Canal Attack, Haag Gambit",1,0,1,1,0,1.0,0.0,1.0,0.0
+Sicilian Defense: Pin Variation,1,0,1,0,1,1.0,0.0,0.0,1.0
+"Sicilian Defense: Najdorf Variation, Freak Attack",1,0,1,0,1,1.0,0.0,0.0,1.0
+"Sicilian Defense: Scheveningen Variation, Classical Variation",0,1,1,0,0,0.0,1.0,,
+"Sicilian Defense: O'Kelly Variation, Venice System, Gambit Line",1,0,1,0,1,1.0,0.0,0.0,1.0
+Sicilian Defense: Gaw-Paw Variation,1,0,1,0,1,1.0,0.0,0.0,1.0
+"Sicilian Defense: O'Kelly Variation, Normal System, Zagorovsky Line",1,0,1,1,0,1.0,0.0,1.0,0.0
+"Sicilian Defense: Accelerated Fianchetto, Maróczy Bind",1,0,1,0,1,1.0,0.0,0.0,1.0
+"Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order Accepted",1,0,1,0,1,1.0,0.0,0.0,1.0
+"Sicilian Defense: Najdorf Variation, Traditional Line",1,0,1,0,1,1.0,0.0,0.0,1.0
+"Sicilian Defense: Smith-Morra Gambit Accepted, Fianchetto Defense",1,0,1,1,0,1.0,0.0,1.0,0.0
+"Sicilian Defense: Accelerated Dragon, Exchange Variation",1,0,1,1,0,1.0,0.0,1.0,0.0
+"Sicilian Defense: Smith-Morra Gambit Accepted, Kan Formation",1,0,1,0,1,1.0,0.0,0.0,1.0
+"Sicilian Defense: Nimzowitsch Variation, Exchange Variation",1,0,1,1,0,1.0,0.0,1.0,0.0
+"Sicilian Defense: O'Kelly Variation, Réti System",1,0,1,1,0,1.0,0.0,1.0,0.0
+"Sicilian Defense: Scheveningen Variation, Matanovic Attack",1,0,1,1,0,1.0,0.0,1.0,0.0
+"Sicilian Defense: O'Kelly Variation, Venice System, Barcza Line",1,0,1,0,1,1.0,0.0,0.0,1.0
+"Sicilian Defense: Morphy Gambit, Andreaschek Gambit",1,0,1,1,0,1.0,0.0,1.0,0.0
+"Sicilian Defense: Smith-Morra Gambit Declined, Scandinavian Formation",1,0,1,0,1,1.0,0.0,0.0,1.0
+"Sicilian Defense: Wing Gambit, Abrahams Variation",0,1,1,0,0,0.0,1.0,,
+Sicilian Defense: Morphy Gambit,1,0,1,0,1,1.0,0.0,0.0,1.0
+"Sicilian Defense: McDonnell Attack, Tal Gambit",0,1,1,0,0,0.0,1.0,,
+"Sicilian Defense: Lasker-Pelikan Variation, Bird Variation",1,0,1,0,1,1.0,0.0,0.0,1.0
+Sicilian Defense: Lasker-Dunne Attack,1,0,1,0,1,1.0,0.0,0.0,1.0
+"Sicilian Defense: Sozin, not Scheveningen",0,1,1,0,0,0.0,1.0,,
+"Sicilian Defense: Alapin Variation, Barmen Defense, Modern Line",1,0,1,0,1,1.0,0.0,0.0,1.0
+"Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order",1,0,1,0,1,1.0,0.0,0.0,1.0
+"Sicilian Defense: Dragon Variation, Classical Variation, Normal Line",1,0,1,1,0,1.0,0.0,1.0,0.0
+"Sicilian Defense: Scheveningen Variation, Keres Attack",1,0,1,1,0,1.0,0.0,1.0,0.0
+"Sicilian Defense: Scheveningen Variation, Tal Variation",1,0,1,0,1,1.0,0.0,0.0,1.0
+"Sicilian Defense: Taimanov Variation, American Attack",1,0,1,1,0,1.0,0.0,1.0,0.0
+"Sicilian Defense: Scheveningen Variation, Modern Variation",1,0,1,0,1,1.0,0.0,0.0,1.0
+"Sicilian Defense: Taimanov Variation, Bastrikov Variation, Ponomariov Gambit",1,0,1,1,0,1.0,0.0,1.0,0.0
+"Sicilian Defense: Dragon Variation, Classical Variation, Alekhine Line",1,0,1,0,1,1.0,0.0,0.0,1.0
