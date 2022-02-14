@@ -28,11 +28,21 @@ st.image('SDIM.png')
 
 st.write("With an infinite possibility of moves within a game, it is intuitive that with each movement we diverge into further tertiary and quaternary plays. The basis of the Sicilian defense consists of two moves (e4 d5), shown in the image above. Yet, as the game continues, we break away into a multitude of variations of this play.")
 
-## total pie chart 
 
 st.write("We can also get insights into what variations are played when we separate the data by untitled and titled tournament.")
 
-## untitled, titled pie chart 
+option = st.selectbox(
+     'Select Which Grouping To View',
+     ('Total', 'Untitled', 'Titled))
+
+if option = 'Total'
+      st.image("pietotal.png"
+elif option = 'Untitled'
+  st.image ("pieuntitled.png")
+elif option = 'Titled'
+  st.image("pietitled.png")
+
+st.write('You selected:', option)
 
 st.header("Variations Analysis")
 
