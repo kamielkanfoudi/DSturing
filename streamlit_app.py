@@ -1,4 +1,5 @@
 import streamlit as st
+import plotly.express as px
 
 
 st.title('An Overview of the Sicilian Defense.')
