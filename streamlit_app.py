@@ -36,7 +36,8 @@ option = st.selectbox(
      ('Total', 'Untitled', 'Titled'))
 
 if option == 'Total':
-      st.image("pietotal.png"
+      st.image("pietotal.png")
+      
 if option == 'Untitled':
   st.image ("pieuntitled.png")
 if option =='Titled':
