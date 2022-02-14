@@ -16,6 +16,6 @@ st.write("Firstly, a quick overview of two chess tournaments held on one of the 
 
 df = pd.read_csv('trackingmoves1.csv')
 
-alt.chart(df)
+st.altair_chart(df)
 
 st.caption('In the abou')
