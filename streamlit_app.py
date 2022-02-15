@@ -19,7 +19,7 @@ st.markdown("**__A chart to show the amount of time a given opening was played, 
 
 st.line_chart(df)
 
-st.caption("On the x axis, we cateloged each second of the tournament. The y axis displays the total amount of times a given opening was used at that point in the tournament")
+st.caption("On the x axis, we cataloged each second of the tournament. The y axis displays the total amount of times a given opening was used at that point in the tournament.")
 
 st.header('Insight into varations of the Sicilian Defense')
 
