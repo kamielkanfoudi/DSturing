@@ -9,7 +9,7 @@ st.title('An Overview of the Sicilian Defense.')
 
 st.text(" “Those who say they understand chess, understand nothing.” – Robert Hübner")
 
-st.write("I presume I evade a that fate, because I sincerely cannot say I understand chess. Yet, chess is beautifully unique in the way with which we have built mechanisms to quantify and analyze the game through complex statistical means. With this, we can gain a really interesting insight into all chess’s moving parts. And, even the layman can grow to grasp the game! ")
+st.write("Understanding chess as a whole, may be out of the question. However, interpretation of the game at any level, can seem a daunting feat. Nonetheless, chess is beautifully unique in the way with which we have built mechanisms to quantify and analyze the game through complex statistical means. With this, we can gain a really interesting insight into all chess’s moving parts. And, even the layman can grow to grasp the game! ")
 
 
 st.write("Our data is derived from two chess tournaments held on one of the most prominent chess platforms, lichess. Utilizing thier API, we scraped data of two tournaments held simultaneously in January 2022: one consisting of only titled players and one open to all players. With almost 8000 games to analyze, the first step is to start at the beginning. How do the players tend to open? Put simply, the foundational mechanism of any chess game is known as the opening. Opening theory intends to document most, if not all, possible sets of opening plays in the ECO (Encyclopedia of Chess Openings)")
