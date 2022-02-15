@@ -27,7 +27,7 @@ st.write("As displayed by the above line chart, we plotted the top 5 most common
 
 st.image('SDIM.png')
 
-st.write("With an infinite possibility of moves within a game, it is intuitive that with each movement we diverge into further tertiary and quaternary plays. The basis of the Sicilian defense consists of two moves (e4 d5), shown in the image above. Yet, as the game continues, we break away into a multitude of variations of the standard Sicilian Defense.")
+st.write("With an infinite possibility of moves within a game, it is intuitive that with each pair of moves we diverge into further tertiary and quaternary plays. The basis of the Sicilian defense consists of two moves (e4 d5), shown in the image above. Yet, as the game continues, we break away into a multitude of variations of the standard Sicilian Defense.")
 
 
 st.write("We can get insights into what variations are played when we separate the data by untitled and titled tournament.")
@@ -75,7 +75,7 @@ st.write("In the below barchart, we displayed some of this data from the 7 most 
 
 st.image("whiteblunders.png")
 
-st.write("Interestingly, the Moscow Variation has a slightly lower win rate than the Chekhover Variation. However, as the contrasting tones suggest,  the Moscow Variation has an average blunder for white of 0 and the Chekhover Variation has that of 3. Noting this, it would be interesting to use the data to paint a picture of the inside of the game.")
+st.write("Interestingly, the Moscow Variation has a slightly lower win rate than the Chekhover Variation. However, as the contrasting tones suggest,  the Moscow Variation has an average blunder for white of 0 and the Chekhover Variation has that of 3. The Moscow varation is actually classified as a 'Anti-Sicilian', a play initiated by white to counter the Sicilian Defense. Noting this, it would be interesting to use the data to paint a picture of the inside of the game.")
 
 st.header("Evaluation Plotting")
 
