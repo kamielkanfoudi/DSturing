@@ -10,7 +10,7 @@ st.title('An Overview of the Sicilian Defense.')
 st.text(" “Those who say they understand chess, understand nothing.” – Robert Hübner")
 
 
-st.write("Our data is derived from two chess tournaments held on one of the most prominent chess platforms, lichess. Utilizing thier API, we scraped data of two tournaments held in January 2022: one consisting of only titled players and one open to all players. With almost 2000 games to analyze, the first step is to start at the beginning. How do the players tend to start? Put simply, the foundational mechanism of any chess game is known as the opening. Opening theory intends to document most, if not all, possible sets of opening plays in the ECO (Encyclopedia of Chess Openings)")
+st.write("Our data is derived from two chess tournaments held on one of the most prominent chess platforms, lichess. Utilizing thier API, we scraped data of two tournaments held simultaneously in January 2022: one consisting of only titled players and one open to all players. With almost 8000 games to analyze, the first step is to start at the beginning. How do the players tend to open? Put simply, the foundational mechanism of any chess game is known as the opening. Opening theory intends to document most, if not all, possible sets of opening plays in the ECO (Encyclopedia of Chess Openings)")
 
 
 df = pd.read_csv('trackingmoves1.csv')
@@ -18,6 +18,8 @@ df = pd.read_csv('trackingmoves1.csv')
 st.markdown("**__A chart to show the amount of time a given opening was played, cumulatively, with each second of the tournament.__**")
 
 st.line_chart(df)
+
+sd.caption("On the x axis, we cateloged each second of the tournament. The y axis displays the total amount of times a given opening was used at that point in the tournament")
 
 st.header('Insight into varations of the Sicilian Defense')
 
