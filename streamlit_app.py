@@ -6,6 +6,8 @@ import altair as alt
 
 st.title('An Overview of the Sicilian Defense.')
 
+st.caption("Kamilah El Kanfoudi")
+
 
 st.text(" “Those who say they understand chess, understand nothing.” – Robert Hübner")
 
